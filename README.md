@@ -10,7 +10,7 @@
  </div>
  <div align = "center">
  <p> BOJ rank </p>
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junghyeon9363)](https://solved.ac/junghyeon9363)
+ [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=junghyeon9363)](https://solved.ac/junghyeon9363)
 </div>
 <!--
 **junghyeon9363/junghyeon9363** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
