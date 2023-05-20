@@ -1,6 +1,8 @@
 ### Junghyeon9363 
- <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=TypeScript&logoColor=white"/>
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=TypeScript&logoColor=white"/>
+div align "center"
+ <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+ div
  [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={junghyeon9363})](https://solved.ac/{junghyeon9363})
 
