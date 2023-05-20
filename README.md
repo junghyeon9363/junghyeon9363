@@ -1,4 +1,8 @@
 ### Junghyeon9363 
+ <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=TypeScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=TypeScript&logoColor=white"/>
+ [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={junghyeon9363})](https://solved.ac/{junghyeon9363})
 
 <!--
 **junghyeon9363/junghyeon9363** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
