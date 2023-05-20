@@ -1,10 +1,15 @@
 ### Junghyeon9363 
-div align "center"
+<div align "center">
  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
- div
+ <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=white"/>
+ 
+ </div>
  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={junghyeon9363})](https://solved.ac/{junghyeon9363})
+Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junghyeon9363)](https://solved.ac/junghyeon9363)
 
 <!--
 **junghyeon9363/junghyeon9363** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
